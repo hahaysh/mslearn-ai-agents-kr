@@ -155,7 +155,17 @@ python .github\skills\mslearn-korean-localization\scripts\validate_translation.p
 https://<owner>.github.io/<repository>/Instructions-kr/Exercises/<lab>.html
 ```
 
-Pages를 게시한 경우 실제 사이트 URL과 확인 결과를 이 섹션에 기록합니다. (현재 게시하지 않음)
+게시 완료: 이 저장소의 한국어 실습은 다음 사이트에 게시되어 있습니다.
+
+- 사이트 홈: <https://hahaysh.github.io/mslearn-ai-agents-kr/>
+- 실습(Exercises) 예: <https://hahaysh.github.io/mslearn-ai-agents-kr/Instructions-kr/Exercises/01-build-agent-portal-and-vscode.html>
+- 워크숍(Consolidated) 예: <https://hahaysh.github.io/mslearn-ai-agents-kr/Instructions-kr/Consolidated/A1-create-and-ground-an-agent.html>
+
+게시 구성:
+
+- GitHub Pages 원본: `main` 브랜치 루트(`/`).
+- 루트 `index.md`의 실습 목록 쿼리를 `/Instructions-kr/Exercises`로 지정하여 홈페이지에 한국어 실습이 표시됩니다.
+- 마지막 확인: 홈페이지 및 대표 실습·워크숍 페이지, 미디어 이미지 모두 HTTP 200 응답을 확인했습니다(2026-09-27).
 
 ## 알려진 원문 문제
 
